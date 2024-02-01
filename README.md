@@ -1,15 +1,29 @@
 # Modeling_democracy
 A Machine learning view point for Gender Affirmative Care(GAC) bills in the US based on Emotions and Belief's.
 
-# Initial software requirements for model Development.
-!pip install ktrain
-import pandas as pd
-import numpy as np
-import ktrain
-from ktrain import text
-from sklearn.model_selection import train_test_split
+# Developemnt Pipeline
+        BERT MODEL -> FINE TUNE -> TRAINING ON PERSONAL DATA -> PREDICT ON UNTRAINED DATA
 
-# Different Models available for GAC Bills analysis.
+# Initial software requirements for model Development.
+- !pip install ktrain
+- import pandas as pd
+- import numpy as np
+- import ktrain
+- from ktrain import text
+- from sklearn.model_selection import train_test_split
+- !pip install torch
+- !pip install transformers
+- !pip install pandas
+- !pip install datasets
+- import torch
+- from torch.utils.data import DataLoader, TensorDataset
+- from transformers import BertTokenizer, BertForSequenceClassification, AdamW
+
+# Fine Tuning the model for personal requirements
+        Based on the slective 
+
+
+# Different Fine tuned Models available for GAC Bills analysis.
 # 1. TextBased emotion analysis model
         - It analyses the GAC bill based on the 8 implicit emotions available in the dataset.
         - The model is trained on the 8 different emotions and predicts future statements as one of the following.
@@ -23,4 +37,10 @@ from sklearn.model_selection import train_test_split
 
 
 # DATASET 
-        -Contains data made up of actors and their respective beliefs and emotions including the encoding of emotions. 
+        Contains data made up of actors and their respective beliefs and emotions including the encoding of emotions. 
+
+# BERT Model used for text based emotion analysis 
+
+https://towardsdatascience.com/bert-explained-state-of-the-art-language-model-for-nlp-f8b21a9b6270
+
+
