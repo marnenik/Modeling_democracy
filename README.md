@@ -20,7 +20,7 @@ A Machine learning view point for Gender Affirmative Care(GAC) bills in the US b
 - from transformers import BertTokenizer, BertForSequenceClassification, AdamW
 
 # Fine Tuning the model for personal requirements
-        Based on the slective 
+        Based on the data and analysis requirements we fine tune the model to make predictions, in our case predict emotions and beliefs of narrators.
 
 
 # Different Fine tuned Models available for GAC Bills analysis.
