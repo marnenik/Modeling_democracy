@@ -7,8 +7,8 @@ A Machine learning view point for Gender Affirmative Care(GAC) bills in the US b
         Emotional-Belief Expression Analysis (EBA) is a coding method used in Advocacy Coalition Framework studies to better understand the emotions and beliefs of coalitions.
         It is a variation of past ACF belief coding and utilizes Philip Liefeld's Discourse Network Analyzer.
 
-# Developemnt Pipeline
-     ![modelpipeline](https://github.com/marnenik/Modeling_democracy/assets/146151437/708bd500-51d5-400d-8fdb-3b77508556a7)
+![Development pipeline](https://github.com/marnenik/Modeling_democracy/assets/146151437/708bd500-51d5-400d-8fdb-3b77508556a7)
+     
 
 
 
