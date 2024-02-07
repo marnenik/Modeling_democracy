@@ -8,7 +8,7 @@ A Machine learning view point for Gender Affirmative Care(GAC) bills in the US b
         It is a variation of past ACF belief coding and utilizes Philip Liefeld's Discourse Network Analyzer.
 
 # Developemnt Pipeline
-        <img width="681" alt="Screenshot 2024-02-07 at 1 20 33 AM" src="https://github.com/marnenik/Modeling_democracy/assets/146151437/a20258f0-2366-4fcf-8937-015946066754">
+       https://github.com/marnenik/Modeling_democracy/assets/146151437/05e153a0-9240-4598-8f83-b6e41478d06c
 
 
 
