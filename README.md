@@ -8,7 +8,7 @@ A Machine learning view point for Gender Affirmative Care(GAC) bills in the US b
         It is a variation of past ACF belief coding and utilizes Philip Liefeld's Discourse Network Analyzer.
 
 # Developemnt Pipeline
-      ![Deployment flow for the BERT Model](pipeline flowchart.jpeg) 
+     ![modelpipeline](https://github.com/marnenik/Modeling_democracy/assets/146151437/708bd500-51d5-400d-8fdb-3b77508556a7)
 
 
 
